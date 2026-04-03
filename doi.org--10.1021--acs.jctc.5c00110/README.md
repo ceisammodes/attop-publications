@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains non-adiabatic molecular dynamics initial conditions in `.xyz` format of:
+This repository contains non-adiabatic molecular dynamics trajectories in `.xyz` format of:
 - *trans*-azomethane upon excitation to the S1 excited state.
 - butyrolactone upon excitation to the S2 excited state.
 - furanone excitation to the S2 excited state.
