@@ -3,6 +3,13 @@
 This work is licensed under a
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
+## Ultrafast probing of isotope-induced explicit symmetry breaking in ethylene
+A. N. Nardi, A. Boyer, Y. Hu, V. Loriot, F. Lépine, M. Vacher, S. Nandi
+Commun. Chem. 8, 222 (2025)
+[https://doi.org/10.1038/s42004-025-01621-z](https://doi.org/10.1038/s42004-025-01621-z)
+
+Symmetry governs nature’s laws, yet many of the natural phenomena occur due to the breakdown of symmetry. Here, we show how isotope-induced inversion symmetry breaking influences ultrafast photoisomerization processes in ethylene. Using extreme ultraviolet pump – near infrared probe time-of-flight mass spectrometry, we find that replacing one of the carbon atoms in ethylene with a 13C isotope leads to twice-faster structural relaxation via ethylene-ethylidene isomerization in the photo-excited molecular cation. Advanced trajectory surface hopping calculations incorporating the nuclear symmetry of the molecular systems, reveal that it arises from the mixing of different normal modes in the isotope-substituted species, interactions otherwise forbidden by symmetry. Although the mixing does not alter the symmetry of the electronic Hamiltonian, it modifies that of the nuclear Hamiltonian, causing explicit symmetry breaking. This facilitates efficient intra-molecular vibrational energy redistribution, lowering the isomerization yield. Our findings offer opportunities to use isotope-induced nuclear symmetry breaking to control the outcome of light-molecule interactions across ultrafast timescales.
+
 ## Photodissociation of Cr(CO)4bpy: a non-adiabatic dynamics investigation
 B. Ciborowski and M. Vacher  
 J. Comput. Chem. 46, e70021 (2025)  
