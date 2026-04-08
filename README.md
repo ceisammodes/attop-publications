@@ -3,10 +3,18 @@
 This work is licensed under a
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
+## Excited-state intramolecular proton transfer and competing pathways in 3-hydroxychromone: a non-adiabatic dynamics study
+A. N. Nardi and M. Vacher
+Phys. Chem. Chem. Phys., 28, 4422-4432 (2026)
+[https://doi.org/10.1039/D5CP04236D](https://doi.org/10.1039/D5CP04236D)
+[ArXiv](https://arxiv.org/abs/2601.21918) and [HAL](https://hal.science/hal-05488668v1) links.
+
+Excited-state intramolecular proton transfer (ESIPT) is a fundamental photochemical process in which photoexcitation induces proton transfer within a molecule, leading to the formation of a tautomeric excited state. It was observed experimentally that the 3-hydroxychromone (3-HC) system exhibits two distinct proton-transfer time scales upon excitation to the lowest "bright" singlet excited state: an ultrafast component on the femtosecond time scale and a slower one on the picosecond time scale, largely insensitive to solvent effects. Up to now, the microscopic origin of the second time constant has only been hypothesised. Here, using mixed quantum-classical non-adiabatic dynamics simulations, we explicitly observe the two ESIPT time constants and we rationalise the origin of the second time scale by the presence of a competitive out-of-plane hydrogen torsional motion. Comprehensive analysis of the excited-state potential energy surfaces and nonadiabatic trajectories enables us to construct an explicit reaction network for 3-HC, delineating the interplay between canonical ESIPT and torsion-mediated pathways. This unified mechanistic framework reconciles the coexistence of ultrafast and slower ESIPT components, offering new insights into the non-adiabatic excited-state dynamics of the system.
+
 ## Automated Selection of Nuclear Coordinates for Reduced Dimensionality Nonadiabatic Dynamics
 V. Delmas, A. N. Nardi, I. C. D. Merritt, A. Ferté, I. Fdez. Galván and M. Vacher
 J. Chem. Theory Comput. 21, 13, 6611–6621 (2025)
-[https://doi.org/10.1021/acs.jctc.5c00110](doi.org/10.1021/acs.jctc.5c00110)
+[https://doi.org/10.1021/acs.jctc.5c00110](https://doi.org/10.1021/acs.jctc.5c00110)
 [ArXiv](https://arxiv.org/abs/2509.09329) and [HAL](https://hal.science/hal-05221538/) links.
 
 Poor scaling of dynamics simulations with number of dimensions is currently a major limiting factor in the simulation of photochemical processes. In this work, we investigate ways to reduce the dimensionality of many-atom systems with a view toward enhancing computational efficiency while maintaining accuracy. Using mixed quantum-classical Trajectory Surface Hopping (TSH) simulations of three photoreactive molecules - trans-azomethane (tAZM), butyrolactone (Bulac), and furanone (Fur) - we explore two different dimensionality reduction techniques: Principal Component Analysis (PCA) and Normal Mode Variance (NMV). Dynamics simulations are run in full dimensionality and reduced dimensionality, employing either PCA or NMV, and the impact of the dimensionality reduction on selected electronic and geometric properties of the dynamics is evaluated. For all three molecules, both PCA and NMV can be used to select lower-dimensional spaces in which the full-dimensionality dynamics results are reproduced. PCA reduction outperforms NMV in all systems, allowing for a more significant dimensionality reduction without loss of accuracy. The improved accuracy of PCA is, for tAZM, mostly seen in the electronic properties while for both Fur and Bulac the advantage is clear in the ring-opening reaction itself as well. The present approach opens routes to simulation of larger photochemically relevant systems, through the use of automated dimensionality reduction, avoiding human bias.
