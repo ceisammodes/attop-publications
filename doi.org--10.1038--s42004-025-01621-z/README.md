@@ -13,7 +13,7 @@ The computational detail can be found in the "Theoretical methods" section of th
 
 ## Data Repository Structure
 
-The data are stored in `https://uncloud.univ-nantes.fr/index.php/apps/files/files/2479326929?dir=/ATTOP-TEAM/XYZ/doi.org--10.1038--s42004-025-01621-z` and the repository has the following structure.
+The data are stored in `https://uncloud.univ-nantes.fr/index.php/s/osFxMk8LbF867Mx` and the repository has the following structure.
 
 ```
 12C12C_data.tar.gz
